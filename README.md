@@ -43,7 +43,7 @@ Poincaré plot for nonlinear HRV insights.
 
 HARDWARE AND SOFTWARE REQUIREMENTS
 
-Hardware- AD8232 ECG MOodule, Arduino UNO, Laptop
+Hardware- AD8232 ECG Module, Arduino UNO, Laptop
 Software- Python (NumPy, SciPy, Matplotlib, Pandas, Welch PSD), Arduino IDE (for data acquisition)
 
  APPLICATIONS
